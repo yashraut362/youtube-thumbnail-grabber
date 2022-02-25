@@ -1,7 +1,7 @@
 {
   "name": "youtube-thumbnail-grabber",
-  "version": "1.0.0",
-  "description": "simple package to grab thumbnails of youtube videos",
+  "version": "1.0.1",
+  "description": "a simple package for grabbing youtube video thumbnails",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
