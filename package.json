@@ -6,6 +6,25 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "yashraut",
-  "license": "ISC"
+  "author": "Yash Raut",
+  "keywords": [
+    "npm",
+    "youtube",
+    "api",
+    "thumbnail",
+    "grabber",
+    "link",
+    "thumbnail link",
+    "youtube link"
+  ],
+  "license": "MIT",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashraut362/youtube-thumbnail-grabber.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yashraut362/youtube-thumbnail-grabber/issues"
+  },
+  "homepage": "https://github.com/yashraut362/youtube-thumbnail-grabber#readme"
 }
