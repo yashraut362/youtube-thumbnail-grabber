@@ -6,9 +6,9 @@ function getThumbnail(link, quality) {
                 case 'max':
                     return `https://i1.ytimg.com/vi/${videoid}/maxresdefault.jpg`
                 case 'hq':
-                    return `https://i1.ytimg.com/vi/${videoid}/mqdefault.jpg`
-                case 'mq':
                     return `https://i1.ytimg.com/vi/${videoid}/hqdefault.jpg`
+                case 'mq':
+                    return `https://i1.ytimg.com/vi/${videoid}/mqdefault.jpg`
                 case 'sd':
                     return `https://i1.ytimg.com/vi/${videoid}/sddefault.jpg`
                 case 'default':
